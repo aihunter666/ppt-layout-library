@@ -2,6 +2,12 @@
 
 3207 张布局原图，以及对应的本地检索脚本和离线浏览页面。
 
+## 在线浏览
+
+**访问布局库：[https://aihunter666.github.io/ppt-layout-library/](https://aihunter666.github.io/ppt-layout-library/)**
+
+打开链接即可搜索、筛选和查看全部布局，无需下载或安装。
+
 ## 直接浏览
 
 1. 下载完整仓库（Code → Download ZIP），并解压。
